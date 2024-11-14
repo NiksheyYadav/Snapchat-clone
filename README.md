@@ -1,6 +1,6 @@
 # **Snapchat Clone**
 
-This is a Snapchat clone built using CSS, typescript, etc. It aims to replicate the core functionalities of the popular social media app, including:
+This is a Snapchat clone built using CSS, Typescript, Javascript etc. It aims to replicate the core functionalities of the popular social media app, including:
 
 * **User Authentication:** Secure login and signup processes.
 * **Profile Creation:** Users can create personalized profiles with photos, bio, and other details.
